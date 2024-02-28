@@ -1,0 +1,35 @@
+.date {
+  margin-left: 50px;
+  justify-items: right;
+}
+.o_table {
+  border-collapse: separate;
+  background-color: white;
+  border-spacing: 1 15px;
+  margin: 5px;
+  padding: 30px;
+  border-radius: 10px;
+  width: 1000px;
+}
+.O_num {
+  color: blue;
+}
+
+.ot-container {
+  position: relative;
+  top: 8rem;
+}
+.r_btn {
+  position: absolute;
+  top: -15px;
+  right: 10px;
+  text-align: right;
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+  background-color: blue;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-right: -320px;
+}
